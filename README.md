@@ -74,3 +74,5 @@ poetry去安装好poetry。一般来说如果你是windows，你安装poetry之�
 
 searchapi: uvsyHmUyBkuKuCHpRKeeYqDH
 pinecone: d67995d3-35be-4216-9151-c75d7eca0ef2
+
+最后如果大家在项目运行过程中遇到啥问题，或者发现了项目本身的错误以及只是单纯想交流，都可以通过招乎联系我。
